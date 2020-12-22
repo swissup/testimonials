@@ -2,9 +2,9 @@
     "name": "swissup/testimonials",
     "description": "Customer's testimonials at your store",
     "type": "metapackage",
-    "version": "1.2.14",
+    "version": "1.2.15",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-testimonials": "^1.2.14"
+        "swissup/module-testimonials": "^1.2.15"
     }
 }
